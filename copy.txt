@@ -1,0 +1,6 @@
+<hr>
+        <span>See personalized recommendations</span>
+        <div class="signin">Sign in</div>
+        <span>New customer?</span>
+        <a href="">Start here.</a>
+        <hr>
